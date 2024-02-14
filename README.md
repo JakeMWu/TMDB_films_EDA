@@ -1,2 +1,4 @@
-# TMDB_films_EDA
- Data wrangling and EDA of TMDB film dataset 
+# TMDB_films_EDA 
+
+Digital Futures Project for programmatic Data Wrangling. It was done over 
+1 work day and included the notebook itself and a notebook presentation.
